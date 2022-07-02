@@ -1,0 +1,6 @@
+# Git
+O Git é uma ferramenta de versionamento de código utilizado principalmente no desenvolvimento de software, mas que também pode ser utilizada para manter controle sobre o histórico de edições de qualquer tipo de arquivo.
+Numa visão geral, o git permite que várias versões diferentes de um mesmo código sejam armazenadas ao mesmo tempo. Chamamos cada uma dessas versões de branch, sendo que por convenção sempre haverá uma branch master que irá conter a versão estável do código. Para progredir o desenvolvimento de um software, frequentemente são adicionadas novos blocos de código à versão que está sendo trabalhada. Cada adição dessa é chamada de commit. Quando as funcionalidades de uma branch secundária estão completamente funcionais e deseja-se que elas sejam implementadas, é possível realizar o processo de merge com a branch principal, que acopla o que estava nessa branch secundária na branch master.
+
+# GitHub
+O GitHub é uma plataforma em nuvem cuja função é hospedar repositórios em Git. Muitas vezes o GitHub pode ser visto não apenas como uma ferramenta para melhorar o trabalho em equipe, mas também como uma rede social, visto que muitos programadores podem contribuir com o desenvolvimento open-source dos projetos de outros programadores.

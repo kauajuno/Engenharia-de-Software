@@ -1,0 +1,3 @@
+# Gramáticas ambíguas
+Uma gramática é ambígua quando pode ser encontrada ao menos uma string gerada por essa gramática que possa ter duas árvores de análise sintática diferentes. Não existe uma regra pré-definida para encontrar ambiguidade ou não-ambiguidade em uma gramática, o que torna essa processo complexo.
+Majoritariamente, a ambiguidade não é um aspecto bom de uma gramática, pois pode interferir semanticamente no resultado. Um exemplo disso é quando uma gramática não consegue definir uma ordem de precedência nos operadores matemáticos, ou seja, em uma árvore de análise sintática sabe-se que a soma vem antes da multiplicação, enquanto em outra a multiplicação vem antes da soma.

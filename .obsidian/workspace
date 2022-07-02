@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "99eb3e053c8374c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b081b1a4c852aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3P/Git - Arquivos/merge.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c46abf8fc81f43a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa26355a13e8fdb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b6af1568447b51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5aed51e74fd2ad4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "right": {
+    "id": "d1b5cebb23a73469",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6cca924120b232d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2b71f4bd4b677f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3P/Git - Arquivos/merge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98b081b1a4c852aa",
+  "lastOpenFiles": [
+    "3P/Git - Arquivos/merge.md",
+    "3P/Git - Arquivos/pull.md",
+    "google.com.md",
+    "3P/Git - Arquivos/criando versões de código.md",
+    "3P/Git - Arquivos/adicionando arquivos ao controle de versão.md",
+    "3P/Git - Arquivos/criando um repositório.md",
+    "3P/Git - Arquivos/introdução ao Git e ao GitHub.md",
+    "3P/Git - Arquivos/Git.md",
+    "3P/Git - Arquivos/branches.md",
+    "3P/Git - Arquivos/ciclo de atualização.md"
+  ]
+}
